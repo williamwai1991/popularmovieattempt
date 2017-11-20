@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/williamwai/.android/build-cache/e1fd6a042ccdbc77e08e7601848129d84a616d45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/williamwai/Downloads/SC_RecyclerViewProject/app/build/intermediates/pre-dexed/debug/classes_183a22f21897e75b48e63517c4f3bf3460eaacd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/williamwai/.android/build-cache/4cb1bbf5ad190cf3562b8fc99714747c2ab3c478/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c034a63bfb92bf0f38a4cf613614de4e06b3ab9f">
+        <dex dex="/Users/williamwai/Downloads/SC_RecyclerViewProject/app/build/intermediates/pre-dexed/debug/classes_37e1958dd2bcdb84d9a39e1a8a883f303899ec87.jar" />
+    </item>
+
+</items>
